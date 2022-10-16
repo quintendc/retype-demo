@@ -1,5 +1,5 @@
 # 01 variabelen
 ## Wat zijn variabelen
-
+fgfchgchbcg
 ## Waarom gebruiken we variabelen
-
+cxgfgfch
