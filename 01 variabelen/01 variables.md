@@ -1,5 +1,5 @@
 # 01 variabelen
-# Wat zijn variabelen
+## Wat zijn variabelen
 
-# Waarom gebruiken we variabelen
+## Waarom gebruiken we variabelen
 
