@@ -1,5 +1,5 @@
 ---
-order: 200
+order: 100
 ---
 # Samenvatting & Oefeningen
 ## Samenvatting
